@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_button_active">#00BCD4</color>
+    <color name="main_color">#00BCD4</color>
+    <color name="color_primary_variant">#057988</color>
+    <color name="color_on_primary">#08363C</color>
+    <color name="menu_button_disable">#000000</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <color name="purple_700">#000000</color>
+    <color name="purple_200">#000000</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#000000</color>
+
+</resources>
