@@ -7,7 +7,7 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 import java.util.concurrent.TimeUnit
 
 object Network {
-    private const val baseUrl = "http://api.icndb.com/"
+    private const val baseUrl = "https://api.icndb.com/"
     private val logInterceptor = HttpLoggingInterceptor().apply{
         level = HttpLoggingInterceptor.Level.BODY
     }

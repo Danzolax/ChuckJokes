@@ -8,6 +8,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.zolax.chuckjokes.R
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.activity_main.*
+import timber.log.Timber
 
 
 @AndroidEntryPoint
@@ -17,4 +18,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         bottomNavigationView.setupWithNavController(navHostFragment.findNavController())
     }
+
+
+
+
+
+
+
+
 }
